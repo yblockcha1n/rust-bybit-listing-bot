@@ -1,0 +1,12 @@
+{
+    "api_key": "ADFsPi6eWG0ouiX7Ak",
+    "secret_key": "hf7aCvOVKWS0jXsQSs6FMiABzaginZNeypxH",
+    "recv_window": "5000",
+    "url": "https://api.bybit.com",
+    "symbol": "AURORAUSDT",
+    "usdt_quantity": "100",
+    "order_time": "17:00:00",
+    "order_interval": 60,
+    "limit_price_multiplier": 1.16,
+    "coin": "AURORA"
+}
