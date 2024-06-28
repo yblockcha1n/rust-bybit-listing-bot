@@ -1,6 +1,6 @@
 {
-    "api_key": "ADFsPi6eWG0ouiX7Ak",
-    "secret_key": "hf7aCvOVKWS0jXsQSs6FMiABzaginZNeypxH",
+    "api_key": "YOUR_API_KEY",
+    "secret_key": "YOUR_SECRET_KEY",
     "recv_window": "5000",
     "url": "https://api.bybit.com",
     "symbol": "AURORAUSDT",
